@@ -19,7 +19,6 @@ const Detail = ({ navigation }) => {
               <FontAwesome5 name="user" size={24} color="white" />
             </View>
             <Text style = { styles.heading2 }>Hasil Pencarian Penerbangan</Text>
-            <Text style = { styles.heading2 }>January 14, 2023</Text>
         </View>
         <ScrollView>
           <Counter/>
